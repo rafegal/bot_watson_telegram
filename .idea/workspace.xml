@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/grupybot$utils.coverage" NAME="utils Coverage Results" MODIFIED="1518124347064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Projetos/grupybot/core" />
+    <SUITE FILE_PATH="coverage/grupybot$utils.coverage" NAME="utils Coverage Results" MODIFIED="1518124347064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -29,7 +29,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+        <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2210">
               <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -39,9 +39,9 @@
         </entry>
       </file>
       <file leaf-file-name="constants.py" pinned="false" current-in-tab="true">
-        <entry file="file://C:/Projetos/bot_watson_telegram/core/constants.py">
+        <entry file="file://$PROJECT_DIR$/core/constants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20376712" vertical-offset="0" max-vertical-offset="584">
+            <state vertical-scroll-proportion="0.35843372" vertical-offset="0" max-vertical-offset="332">
               <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
@@ -49,7 +49,7 @@
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+        <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="493">
               <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -61,7 +61,7 @@
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
+        <entry file="file://$PROJECT_DIR$/core/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="391">
               <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
@@ -73,10 +73,10 @@
         </entry>
       </file>
       <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
+        <entry file="file://$PROJECT_DIR$/core/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="595">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="595">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
                 <element signature="e#0#129#0" expanded="true" />
               </folding>
@@ -85,7 +85,7 @@
         </entry>
       </file>
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Projetos/bot_watson_telegram/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -99,14 +99,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="C:/Projetos/grupybot/core/__init__.py" />
-        <option value="C:/Projetos/grupybot/core/util.py" />
-        <option value="C:/Projetos/grupybot/grupybot/settings.py" />
-        <option value="C:/Projetos/grupybot/grupybot/urls.py" />
-        <option value="C:/Projetos/grupybot/core/views.py" />
-        <option value="C:/Projetos/grupybot/requirements.txt" />
-        <option value="C:/Projetos/grupybot/core/utils.py" />
-        <option value="C:/Projetos/grupybot/core/constants.py" />
+        <option value="$PROJECT_DIR$/core/__init__.py" />
+        <option value="$PROJECT_DIR$/core/util.py" />
+        <option value="$PROJECT_DIR$/grupybot/settings.py" />
+        <option value="$PROJECT_DIR$/grupybot/urls.py" />
+        <option value="$PROJECT_DIR$/core/views.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/core/utils.py" />
+        <option value="$PROJECT_DIR$/core/constants.py" />
+        <option value="$PROJECT_DIR$/core/constants.py" />
       </list>
     </option>
   </component>
@@ -149,10 +150,6 @@
               <option name="myItemId" value="grupybot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bot_watson_telegram" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -161,10 +158,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bot_watson_telegram" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grupybot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,6 +175,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grupybot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bot_watson_telegram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bot_watson_telegram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -191,8 +198,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Django server.grupybot">
+  <component name="RunManager" selected="Django server.bot_watson_telegram">
     <configuration default="false" name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,13 +208,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/Projetos/grupybot/core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="grupybot" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:/Projetos/grupybot/core/utils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -424,19 +432,19 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="grupybot" type="Python.DjangoServer" factoryName="Django server">
+    <configuration default="false" name="bot_watson_telegram" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
+        <env name="DJANGO_SETTINGS_MODULE" value="bot_watson_telegram.settings" />
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="grupybot.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="grupybot" />
+      <module name="bot_watson_telegram" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
       <option name="host" value="" />
@@ -451,7 +459,7 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Django server.grupybot" />
+      <item index="0" class="java.lang.String" itemvalue="Django server.bot_watson_telegram" />
       <item index="1" class="java.lang.String" itemvalue="Python.utils" />
     </list>
     <recent_temporary>
@@ -478,25 +486,25 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4117647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25567323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4117647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -520,7 +528,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2210">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -528,7 +536,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/constants.py">
+    <entry file="file://$PROJECT_DIR$/core/constants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -536,7 +544,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="493">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -546,7 +554,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
+    <entry file="file://$PROJECT_DIR$/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="391">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
@@ -556,7 +564,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="595">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2210">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="493">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="391">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="595">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -566,7 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -574,7 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2210">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -582,7 +644,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="493">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -592,7 +654,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
+    <entry file="file://$PROJECT_DIR$/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="391">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
@@ -602,7 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -612,7 +674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2210">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -620,7 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="493">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -630,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
+    <entry file="file://$PROJECT_DIR$/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="391">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
@@ -640,7 +702,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -650,7 +712,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2210">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -658,7 +720,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="493">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -668,7 +730,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
+    <entry file="file://$PROJECT_DIR$/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="442">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -678,7 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -688,7 +750,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2210">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -696,7 +758,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="493">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -706,14 +768,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/__init__.py">
+    <entry file="file://$PROJECT_DIR$/core/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
+    <entry file="file://$PROJECT_DIR$/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="476">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
@@ -723,7 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -733,14 +795,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/constants.py">
+    <entry file="file://$PROJECT_DIR$/core/constants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/__init__.py">
+    <entry file="file://$PROJECT_DIR$/core/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="383">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -754,7 +816,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/settings.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2210">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
@@ -762,7 +824,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -770,27 +832,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/grupybot/urls.py">
+    <entry file="file://$PROJECT_DIR$/bot_watson_telegram/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
@@ -800,9 +842,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Projetos/bot_watson_telegram/core/constants.py">
+    <entry file="file://$PROJECT_DIR$/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20376712" vertical-offset="0" max-vertical-offset="584">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="595">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35843372" vertical-offset="0" max-vertical-offset="332">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>

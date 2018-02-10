@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'grupybot.urls'
+ROOT_URLCONF = 'bot_watson_telegram.urls'
 
 TEMPLATES = [
     {
